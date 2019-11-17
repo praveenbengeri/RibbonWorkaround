@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RibbonWorkaround", "RibbonWorkaround\RibbonWorkaround.csproj", "{289ADA2E-0F27-4A9C-9E17-A7F0D2788AB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{289ADA2E-0F27-4A9C-9E17-A7F0D2788AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289ADA2E-0F27-4A9C-9E17-A7F0D2788AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{289ADA2E-0F27-4A9C-9E17-A7F0D2788AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{289ADA2E-0F27-4A9C-9E17-A7F0D2788AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E44B936-AF27-49A7-97DC-45CCA39EF41D}
+	EndGlobalSection
+EndGlobal
